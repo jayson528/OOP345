@@ -1,0 +1,2 @@
+in workshop 2 i leanred how to open and read from a file using the ifstream objects and i also learned how to use move constructors and move assignment operators. im also starting to get firmiliar
+with l/rValues and how to convert an lValue to an rValue.

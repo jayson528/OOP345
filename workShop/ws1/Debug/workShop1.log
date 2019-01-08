@@ -1,0 +1,4 @@
+﻿  CString.cpp
+\\mac\icloud\school\semester-3\oop345\workshop\ws1\workshop1\cstring.cpp(20): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: see declaration of 'strncpy'
+  workShop1.vcxproj -> \\Mac\iCloud\School\Semester-3\OOP345\workShop\ws1\workShop1\Debug\workShop1.exe

@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: w2, Configuration: Debug Win32 ------
+1>Text.cpp
+1>w2.cpp
+1>Generating Code...
+1>w2.vcxproj -> \\Mac\iCloud\School\Semester-3\OOP345\workShop\ws2\Debug\w2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

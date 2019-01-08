@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: workShop1, Configuration: Debug Win32 ------
+1>CString.cpp
+1>process.cpp
+1>w1.cpp
+1>Generating Code...
+1>workShop1.vcxproj -> \\Mac\iCloud\School\Semester-3\OOP345\workShop\ws1\workShop1\Debug\workShop1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
